@@ -12,7 +12,9 @@
 </p>
 
 
-<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px;">
+<tr>
+<td style="border: none; padding: 20px;">
 <span style="font-size: 14px; font-family: monospace; color: #8b949e;">🔴 🟡 🟢 &nbsp; <b>danielcanoh22 ~ skills</b></span>
 <br/><br/>
 <p style="margin: 0; padding-bottom: 12px; font-size: 16px; font-weight: bold; color: #58a6ff;">💻 Frontend</p>
@@ -35,7 +37,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="45" height="45" alt="Firebase" />
 </p>
-</div>
+</td>
+</tr>
+</table>
 
 
 <!-- <h2 align="center" style="padding-bottom: 20px; margin-bottom: 20px;">🌱 Contacto</h2> -->
@@ -53,4 +57,5 @@
     <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github" />
 </a>
 </p>
+
 
