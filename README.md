@@ -15,40 +15,33 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td valign="top" width="100%">
-<table border="0" cellpadding="15" cellspacing="0" width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px;">
+<table border="0" cellpadding="20" cellspacing="0" width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px;">
 <tr>
 <td>
 <span style="font-size: 14px; font-family: monospace; color: #8b949e;">🔴 🟡 🟢 &nbsp; <b>danielcanoh22 ~ skills</b></span>
 <br/><br/>
-<table align="center" border="0" cellpadding="0" cellspacing="8" width="100%">
-<tr>
-<td align="center" valign="top" width="33%">
-<h3 align="center" style="color: #58a6ff;">Frontend</h3>
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="TailwindCSS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React" />
+<font face="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<p style="margin: 0; padding-bottom: 12px; font-size: 16px; font-weight: bold; color: #58a6ff;">💻 Frontend</p>
+<p style="margin: 0; padding-bottom: 24px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="TailwindCSS" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="NextJS" style="background-color: white; border-radius: 50%; padding: 2px;" />
-</td>
-<td align="center" valign="top" width="33%">
-<h3 align="center" style="color: #3ee581;">Backend</h3>
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="NodeJS" />
-&nbsp;&nbsp;
+</p>
+<p style="margin: 0; padding-bottom: 12px; font-size: 16px; font-weight: bold; color: #3ee581;">⚙️ Backend</p>
+<p style="margin: 0; padding-bottom: 24px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="NodeJS" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS" />
-</td>
-<td align="center" valign="top" width="33%">
-<h3 align="center" style="color: #ff7b72;">Others</h3>
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+</p>
+<p style="margin: 0; padding-bottom: 12px; font-size: 16px; font-weight: bold; color: #ff7b72;">🔧 Others</p>
+<p style="margin: 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="45" height="45" alt="Firebase" />
-</td>
-</tr>
-</table>
+</p>
+</font>
 </td>
 </tr>
 </table>
