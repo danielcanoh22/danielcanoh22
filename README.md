@@ -12,15 +12,9 @@
 </p>
 
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td valign="top" width="100%">
-<table border="0" cellpadding="20" cellspacing="0" width="100%" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px;">
-<tr>
-<td>
+<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
 <span style="font-size: 14px; font-family: monospace; color: #8b949e;">🔴 🟡 🟢 &nbsp; <b>danielcanoh22 ~ skills</b></span>
 <br/><br/>
-<font face="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
 <p style="margin: 0; padding-bottom: 12px; font-size: 16px; font-weight: bold; color: #58a6ff;">💻 Frontend</p>
 <p style="margin: 0; padding-bottom: 24px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />&nbsp;&nbsp;
@@ -41,13 +35,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="45" height="45" alt="Firebase" />
 </p>
-</font>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
+</div>
 
 
 <!-- <h2 align="center" style="padding-bottom: 20px; margin-bottom: 20px;">🌱 Contacto</h2> -->
